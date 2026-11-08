@@ -1,0 +1,125 @@
+payment_id,date,payer,payer_email,amount,method,reference
+P5001,11/04/2026,Summit & Co Builders,will@summit.build,1500.00,Zelle,INV-1005
+P5002,13/04/2026,DFW Founders,imran@dfwfounders.fm,550.00,card,INV-1003
+P5003,23/04/2026,Ethan Morales,ethan@glowroofingco.com,900.00,card,INV-1007
+P5004,23/04/2026,DFW FOUNDERS,imran@dfwfounders.fm,550.00,card,
+P5005,24/04/2026,Magnolia Media Team,media@magnoliadfw.org,300.00,Zelle,
+P5006,29/04/2026,H&H Radio,jen@heartandhustle.fm,300.00,card,INV-1002
+P5007,29/04/2026,Dr. Grace Foster,hello@fosterdental.com,1500.00,card,INV-1006
+P5008,30/04/2026,VICTOR VEGA,media@magnoliadfw.org,300.00,Zelle,INV-1010
+P5009,02/05/2026,Heart and Hustle,jen@heartandhustle.fm,300.00,card,INV-1011
+P5010,02/05/2026,MAGNOLIA CHURCH,media@magnoliadfw.org,300.00,card,INV-1004
+P5011,02/05/2026,Magnolia Church,media@magnoliadfw.org,300.00,Zelle,INV-1017
+P5012,03/05/2026,Ridgeway Chiro,drhale@ridgewaychiro.com,2500.00,ACH,
+P5013,06/05/2026,VISTA WP,ddaniels@vistawp.com,2500.00,Zelle,INV-1016
+P5014,08/05/2026,JEN TRAN,jen@lunamedspa.com,1500.00,Zelle,
+P5015,12/05/2026,Willow Bridal Boutique,tanya@willowbridal.com,900.00,card,INV-1012
+P5016,13/05/2026,CASTILLO INSURANCE,luis@castilloinsures.com,2500.00,card,
+P5017,13/05/2026,Northpoint Fitness,joy@northpointfit.co,900.00,ACH,
+P5018,16/05/2026,Magnolia Church,media@magnoliadfw.org,300.00,ACH,INV-1021
+P5019,17/05/2026,DFW Founders Podcast,imran@dfwfounders.fm,550.00,ACH,
+P5020,20/05/2026,HEART & HUSTLE RADIO,jen@heartandhustle.fm,300.00,card,INV-1019
+P5021,21/05/2026,H&H Radio,jen@heartandhustle.fm,300.00,card,
+P5022,28/05/2026,Glow Roofing,ethan@glowroofingco.com,900.00,card,INV-1027
+P5023,01/06/2026,HEART & HUSTLE RADIO,jen@heartandhustle.fm,300.00,Zelle,
+P5024,03/06/2026,DAVID DANIELS,ddaniels@vistawp.com,2500.00,card,INV-1036
+P5025,03/06/2026,DR. GRACE FOSTER,hello@fosterdental.com,1500.00,Zelle,INV-1028
+P5026,05/06/2026,Willow Bridal,tanya@willowbridal.com,900.00,card,INV-1031
+P5027,05/06/2026,VICTOR VEGA,media@magnoliadfw.org,300.00,Zelle,INV-1024
+P5028,06/06/2026,WILL CARTER,will@evergreenbarbers.com,900.00,card,INV-1026
+P5029,07/06/2026,Lakeside Med Spa,aisha@lakesidemedspa.com,900.00,Zelle,INV-1023
+P5030,07/06/2026,Renee Reed DDS,hello@elevatedental.com,1500.00,Zelle,INV-1037
+P5031,08/06/2026,MAGNOLIA DFW,media@magnoliadfw.org,300.00,card,INV-1034
+P5032,09/06/2026,Heart & Hustle Radio,jen@heartandhustle.fm,300.00,ACH,
+P5033,09/06/2026,DFW FOUNDERS,imran@dfwfounders.fm,550.00,ACH,
+P5034,10/06/2026,ETHAN BENNETT,ebennett@bennettlaw.com,2500.00,card,INV-1035
+P5035,11/06/2026,Red Oak Realty LLC,priya@redoakrealty.com,1500.00,Zelle,INV-1029
+P5036,13/06/2026,Ridgeway Chiro,drhale@ridgewaychiro.com,2500.00,card,INV-1032
+P5037,14/06/2026,Foster Family Law PLLC,info@fosterfamilylaw.com,900.00,Zelle,
+P5038,14/06/2026,Summit Builders LLC,will@summit.build,1500.00,Zelle,INV-1045
+P5039,16/06/2026,Castillo Insurance Group,luis@castilloinsures.com,2500.00,Zelle,
+P5040,20/06/2026,HEART & HUSTLE RADIO,jen@heartandhustle.fm,300.00,card,
+P5041,21/06/2026,Heart & Hustle,jen@heartandhustle.fm,300.00,Zelle,INV-1030
+P5042,21/06/2026,DFW Founders,imran@dfwfounders.fm,550.00,ACH,INV-1039
+P5043,24/06/2026,Magnolia DFW,media@magnoliadfw.org,225.00,ACH,INV-1047
+P5044,25/06/2026,Copperline Roasters,dana@copperlinecoffee.com,900.00,Zelle,
+P5045,28/06/2026,Northpoint Fitness,joy@northpointfit.co,900.00,ACH,INV-1043
+P5046,01/07/2026,Magnolia Media Team,media@magnoliadfw.org,225.00,card,
+P5047,02/07/2026,LUNA MEDSPA,jen@lunamedspa.com,1500.00,ACH,
+P5048,02/07/2026,LUIS CASTILLO,luis@castilloinsures.com,2500.00,ACH,
+P5050,03/07/2026,Will Carter,will@evergreenbarbers.com,900.00,ACH,INV-1049
+P5051,04/07/2026,NORTHSTAR MEDIA CO LLC,sofia@northstarmktg.com,900.00,ACH,Northstar Jun invoices
+P5052,07/07/2026,LAKESIDE MEDSPA,aisha@lakesidemedspa.com,900.00,ACH,INV-1048
+P5053,07/07/2026,Imran Kim,imran@dfwfounders.fm,550.00,Zelle,INV-1051
+P5054,07/07/2026,Willow Bridal Boutique,tanya@willowbridal.com,900.00,ACH,INV-1061
+P5055,07/07/2026,JEN FISCHER,jen@heartandhustle.fm,300.00,card,INV-1059
+P5056,11/07/2026,Magnolia Media Team,media@magnoliadfw.org,225.00,card,INV-1060
+P5057,13/07/2026,Dr. Hale,drhale@ridgewaychiro.com,2500.00,card,
+P5058,15/07/2026,Lakeside,aisha@lakesidemedspa.com,900.00,Zelle,INV-1068
+P5059,16/07/2026,MAGNOLIA CHURCH,media@magnoliadfw.org,225.00,Zelle,INV-1053
+P5060,16/07/2026,Cedarlab Coffee,mia@thecedarlab.coffee,900.00,card,INV-1070
+P5061,16/07/2026,Bennett,ebennett@bennettlaw.com,2500.00,card,INV-1056
+P5062,18/07/2026,STONEBRIDGE GYM,hector@stonebridgegym.co,900.00,ACH,INV-1062
+P5063,19/07/2026,RENEE REED,hello@elevatedental.com,1500.00,card,INV-1072
+P5064,19/07/2026,GLOW ROOFING,ethan@glowroofingco.com,900.00,ACH,
+P5065,21/07/2026,DFW FOUNDERS,imran@dfwfounders.fm,550.00,ACH,
+P5066,22/07/2026,JOY TORRES,joy@northpointfit.co,900.00,ACH,INV-1067
+P5067,23/07/2026,RED OAK REALTY,priya@redoakrealty.com,1500.00,Zelle,INV-1071
+P5068,23/07/2026,VISTA WEALTH PARTNERS,ddaniels@vistawp.com,2500.00,card,INV-1054
+P5069,25/07/2026,Magnolia DFW,media@magnoliadfw.org,225.00,ACH,INV-1069
+P5070,26/07/2026,IMRAN FOSTER,imran@fostersautospa.com,900.00,ACH,
+P5071,28/07/2026,Foster Family Law PLLC,info@fosterfamilylaw.com,900.00,card,INV-1064
+P5072,29/07/2026,DFW Founders Podcast,imran@dfwfounders.fm,550.00,card,INV-1076
+P5073,29/07/2026,EVERGREEN BARBERS,will@evergreenbarbers.com,900.00,card,INV-1081
+P5074,30/07/2026,JEN FISCHER,jen@heartandhustle.fm,300.00,Zelle,INV-1066
+P5075,30/07/2026,SUMMIT BUILDERS LLC,will@summit.build,1500.00,Zelle,
+P5076,01/08/2026,Foster Dental PLLC,hello@fosterdental.com,1500.00,ACH,
+P5077,02/08/2026,Pecan Therapy,cwalsh@pecanfamilytherapy.com,1500.00,Zelle,INV-1073
+P5078,03/08/2026,NORTHSTAR MEDIA CO LLC,sofia@northstarmktg.com,1800.00,ACH,Northstar Jul invoices
+P5079,05/08/2026,Magnolia Church,media@magnoliadfw.org,225.00,Zelle,INV-1075
+P5080,05/08/2026,Tanya Castillo,tanya@willowbridal.com,900.00,Zelle,
+P5081,06/08/2026,Bennett Law Firm PLLC,ebennett@bennettlaw.com,2500.00,card,INV-1085
+P5082,06/08/2026,VICTOR VEGA,media@magnoliadfw.org,225.00,Zelle,INV-1082
+P5083,07/08/2026,Copperline Coffee Roasters,dana@copperlinecoffee.com,900.00,card,INV-1083
+P5084,08/08/2026,DFW FOUNDERS PODCAST,imran@dfwfounders.fm,550.00,ACH,INV-1093
+P5085,08/08/2026,JEN FISCHER,jen@heartandhustle.fm,300.00,card,INV-1080
+P5086,08/08/2026,VISTA WEALTH PARTNERS,ddaniels@vistawp.com,2500.00,Zelle,INV-1088
+P5087,11/08/2026,Stonebridge,hector@stonebridgeathletics.com,900.00,card,INV-1095
+P5088,13/08/2026,Ridgeway Chiro,drhale@ridgewaychiro.com,2000.00,card,
+P5089,15/08/2026,Northpoint Fit,joy@northpointfit.co,900.00,ACH,
+P5090,15/08/2026,Luna Med Spa - Frisco,jen@lunamedspa.com,1500.00,card,INV-1079
+P5091,18/08/2026,ALAN FOSTER,,450.00,Zelle,half now half later
+P5092,22/08/2026,Lakeside Med Spa - Plano,aisha@lakesidemedspa.com,900.00,card,INV-1101
+P5093,23/08/2026,Magnolia DFW,media@magnoliadfw.org,225.00,ACH,INV-1091
+P5094,25/08/2026,Foster Family Law,info@fosterfamilylaw.com,900.00,ACH,
+P5095,26/08/2026,DFW Founders,imran@dfwfounders.fm,550.00,card,INV-1104
+P5096,27/08/2026,Copperline Roasters,dana@copperlinecoffee.com,900.00,ACH,INV-1105
+P5097,28/08/2026,Fosters Auto,imran@fostersautospa.com,900.00,card,
+P5098,29/08/2026,COPPERLINE COFFEE,dana@copperlinecoffee.com,900.00,Zelle,INV-1105
+P5099,30/08/2026,Cedarlab Coffee,mia@thecedarlab.coffee,900.00,card,INV-1103
+P5100,30/08/2026,Glow Roofing,ethan@glowroofingco.com,900.00,Zelle,INV-1108
+P5101,02/09/2026,ETHAN BENNETT,ebennett@bennettlaw.com,2500.00,card,
+P5102,03/09/2026,Dr. Hale,drhale@ridgewaychiro.com,2500.00,card,INV-1114
+P5103,04/09/2026,JEN FISCHER,,900.00,Zelle,august sessions
+P5104,05/09/2026,NORTHSTAR MEDIA CO LLC,sofia@northstarmktg.com,1800.00,ACH,Northstar Aug invoices
+P5105,08/09/2026,Red Oak Realty,priya@redoakrealty.com,1500.00,card,INV-1106
+P5106,09/09/2026,Pecan Family Therapy,cwalsh@pecanfamilytherapy.com,1500.00,Zelle,INV-1117
+P5107,10/09/2026,Evergreen Barbershop,will@evergreenbarbers.com,900.00,Zelle,INV-1111
+P5108,12/09/2026,H&H Radio,jen@heartandhustle.fm,300.00,ACH,INV-1115
+P5109,13/09/2026,ELEVATE DENTAL,hello@elevatedental.com,1500.00,Zelle,INV-1123
+P5110,13/09/2026,Riveras Auto,sam@riverasautospa.com,900.00,ACH,INV-1109
+P5111,14/09/2026,Magnolia Media Team,media@magnoliadfw.org,225.00,card,INV-1107
+P5112,14/09/2026,LUNA MED SPA,jen@lunamedspa.com,1500.00,Zelle,
+P5113,18/09/2026,MAGNOLIA DFW,media@magnoliadfw.org,225.00,card,INV-1121
+P5114,19/09/2026,PASTOR VICTOR VEGA,media@magnoliadfw.org,225.00,ACH,INV-1118
+P5115,19/09/2026,Magnolia DFW,media@magnoliadfw.org,225.00,card,INV-1132
+P5116,20/09/2026,ALAN'S ROOFING,alan@alansroofingtx.com,900.00,card,
+P5117,22/09/2026,FOSTER DENTAL,hello@fosterdental.com,1500.00,ACH,INV-1130
+P5118,23/09/2026,Red Oak Realty,priya@redoakrealty.com,1500.00,card,INV-1128
+P5119,25/09/2026,DFW Founders,imran@dfwfounders.fm,550.00,card,INV-1119
+P5120,26/09/2026,WILL GREEN,will@summit.build,1500.00,card,INV-1133
+P5121,29/09/2026,Northpoint Fit,joy@northpointfit.co,900.00,Zelle,
+P5122,29/09/2026,Lakeside Med Spa - Frisco,aisha@lakesidemedspa.com,900.00,ACH,INV-1125
+P5123,29/09/2026,Fosters Auto,imran@fostersautospa.com,900.00,card,INV-1134
+P5124,04/10/2026,NOLAN HADDAD,nolan@redoakrg.com,1500.00,Zelle,INV-1136
+P5125,05/10/2026,NORTHSTAR MEDIA CO LLC,sofia@northstarmktg.com,1800.00,ACH,Northstar Sep invoices
