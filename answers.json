@@ -1,0 +1,219 @@
+{
+  "pack_id": "YOUR_PACK_ID_HERE",
+  "your_name": "YOUR_NAME",
+  "your_email": "YOUR_EMAIL",
+
+  "live_link": "https://your-app-domain.vercel.app",
+  "video_link": "https://www.loom.com/share/your-video-id",
+  "code_or_files_link": "https://github.com/your-repo",
+
+  "client_count": 30,
+  "clients": [
+    {
+      "name": "Vista Wealth Partners",
+      "other_names_used_in_the_data": ["Vista WP", "Vista Wealth", "David Daniels", "Ivy Daniels"],
+      "emails": ["ddaniels@vistawp.com", "ivy@vistawp.com"],
+      "phones": ["469-555-0198", "972-555-0153"]
+    },
+    {
+      "name": "Heart & Hustle Radio",
+      "other_names_used_in_the_data": ["Heart and Hustle", "H&H Radio", "Jen Fischer"],
+      "emails": ["jen@heartandhustle.fm", "jen.fischer.mail@gmail.com"],
+      "phones": ["972-555-0140"]
+    },
+    {
+      "name": "Magnolia Church",
+      "other_names_used_in_the_data": ["Magnolia Media Team", "Magnolia DFW", "Pastor Victor Vega"],
+      "emails": ["media@magnoliadfw.org"],
+      "phones": ["469-555-0170"]
+    },
+    {
+      "name": "Stonebridge Athletics",
+      "other_names_used_in_the_data": ["Stonebridge Gym", "Hector Shah"],
+      "emails": ["hector@stonebridgegym.co", "hector@stonebridgeathletics.com"],
+      "phones": ["469-555-0166"]
+    },
+    {
+      "name": "Foster Dental",
+      "other_names_used_in_the_data": ["Dr Foster", "Grace Foster DDS", "Dr. Grace Foster"],
+      "emails": ["hello@fosterdental.com", "hello@fosterdental.con"],
+      "phones": ["214-555-0128"]
+    }
+  ],
+
+  "payers_who_are_not_clients": [
+    {
+      "name": "Northstar Media Co",
+      "pays_for": ["Keystone Pediatrics", "Beacon Physical Therapy"]
+    }
+  ],
+
+  "overdue": [
+    {
+      "client": "Heart & Hustle Radio",
+      "invoice": "INV-1086",
+      "amount_owed": 300.0,
+      "days_late": 52
+    },
+    {
+      "client": "Alan's Roofing",
+      "invoice": "INV-1092",
+      "amount_owed": 450.0,
+      "days_late": 47
+    },
+    {
+      "client": "Heart & Hustle Radio",
+      "invoice": "INV-1094",
+      "amount_owed": 300.0,
+      "days_late": 46
+    },
+    {
+      "client": "Redoak Realty Group",
+      "invoice": "INV-1098",
+      "amount_owed": 1500.0,
+      "days_late": 39
+    },
+    {
+      "client": "Heart & Hustle Radio",
+      "invoice": "INV-1099",
+      "amount_owed": 300.0,
+      "days_late": 33
+    },
+    {
+      "client": "Vista Wealth Partners",
+      "invoice": "INV-1110",
+      "amount_owed": 2500.0,
+      "days_late": 21
+    },
+    {
+      "client": "ABC Home Care",
+      "invoice": "INV-1112",
+      "amount_owed": 1500.0,
+      "days_late": 21
+    },
+    {
+      "client": "Willow Bridal Boutique",
+      "invoice": "INV-1120",
+      "amount_owed": 900.0,
+      "days_late": 14
+    },
+    {
+      "client": "Heart & Hustle Radio",
+      "invoice": "INV-1129",
+      "amount_owed": 300.0,
+      "days_late": 5
+    },
+    {
+      "client": "Foster Family Law",
+      "invoice": "INV-1131",
+      "amount_owed": 900.0,
+      "days_late": 5
+    }
+  ],
+  "overdue_total": 9050.0,
+
+  "we_owe": [
+    {
+      "client": "Red Oak Realty (Priya Reed)",
+      "amount": 1500.0,
+      "why": "Client paid in advance for a shoot on 2026-09-22 that was canceled due to a family emergency and needs rescheduling or credit."
+    },
+    {
+      "client": "Magnolia Church",
+      "amount": 225.0,
+      "why": "Overbilled on June/July studio sessions by failing to apply the agreed 25% discount."
+    }
+  ],
+
+  "never_billed": [
+    {
+      "client": "Foster Dental",
+      "booking_id_or_month": "B004",
+      "amount": 1500.0
+    },
+    {
+      "client": "Beacon Physical Therapy",
+      "booking_id_or_month": "B128",
+      "amount": 900.0
+    },
+    {
+      "client": "Keystone Pediatrics",
+      "booking_id_or_month": "B130",
+      "amount": 900.0
+    }
+  ],
+  "never_billed_total": 3300.0,
+
+  "billing_tool_is_wrong": [
+    {
+      "invoice": "INV-1114",
+      "tool_says": "unpaid",
+      "truth": "paid",
+      "how_you_know": "Payment P5102 ($2500.00) was received on 2026-09-03 matching INV-1114."
+    },
+    {
+      "invoice": "INV-1115",
+      "tool_says": "unpaid",
+      "truth": "paid",
+      "how_you_know": "Payment P5108 ($300.00) was received on 2026-09-12 matching INV-1115."
+    },
+    {
+      "invoice": "INV-1141",
+      "tool_says": "Billed to Keystone Pediatrics",
+      "truth": "Should be billed to Northstar Media Co",
+      "how_you_know": "Sofia Price sent explicit email instructions on 2026-06-08 to bill Northstar Media Co directly for Keystone & Beacon."
+    }
+  ],
+
+  "lost_requests": [
+    {
+      "video_id": "V012",
+      "request_date": "2026-09-02",
+      "came_by": "voice note",
+      "why_it_was_lost": "Client David Daniels requested legal compliance change ('Vista Wealth Partners' full name), sent via voice note following the Aug 3 broadcast, which was never transcribed into the production board."
+    },
+    {
+      "video_id": "V044",
+      "request_date": "2026-08-03",
+      "came_by": "voice note",
+      "why_it_was_lost": "Will Green requested larger captions via WhatsApp voice note; editor worked off outdated board notes."
+    }
+  ],
+  "lost_requests_root_causes": [
+    "Axeom broadcasted a WhatsApp message on 2026-08-03 encouraging clients to submit revision notes via voice notes.",
+    "Voice notes were never logged into the production_board.csv or assigned to editors, causing notes to get lost."
+  ],
+  "lost_requests_started_getting_worse_in": "2026-08",
+
+  "never_replied_leads": [
+    "L012",
+    "L034",
+    "L077"
+  ],
+
+  "most_likely_to_leave": {
+    "client": "Vista Wealth Partners",
+    "evidence": [
+      "Client sent email on 2026-09-09 stating 'The videos say Vista WP again. I asked for full name. Not happy.'",
+      "Ivy Daniels submitted website form on 2026-09-29 and follow-up email on 2026-10-03 requesting an urgent meeting to discuss contract continuation."
+    ],
+    "what_to_do_this_week": "Call David and Ivy Daniels immediately on Monday morning, fix the legal compliance naming across all pending videos within 24 hours at no extra charge, assign Rita as dedicated editor, and issue a 20% credit on their next billing cycle."
+  },
+
+  "best_marketing_channel": {
+    "channel": "Referral",
+    "why": "Referral leads yield the highest retention rate, highest retainer contract values (e.g., Vista Wealth, Elevate Dental, Keystone Peds), and require zero direct ad spend."
+  },
+
+  "what_this_data_cannot_tell_us": [
+    "Customer Acquisition Cost (CAC) and exact ad spend per paid channel (Meta Ads vs Google).",
+    "Editor overtime labor rates beyond baseline hourly rates in team.csv.",
+    "Client sentiment scores prior to April 2026."
+  ],
+
+  "monday_top_3": [
+    "Call David & Ivy Daniels at Vista Wealth Partners to resolve compliance naming errors and retain the $2,500/mo account.",
+    "Reconcile billing discrepancies (mark INV-1114/1115 paid, re-route agency billing to Northstar Media Co, collect $9,050 overdue AR).",
+    "Revoke the WhatsApp voice-note revision policy and replace it with a structured web form for client edit intake."
+  ]
+}
