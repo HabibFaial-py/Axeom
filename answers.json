@@ -1,11 +1,11 @@
 {
-  "pack_id": "YOUR_PACK_ID_HERE",
-  "your_name": "YOUR_NAME",
-  "your_email": "YOUR_EMAIL",
+  "pack_id": "104",
+  "your_name": "HABIB fAISAL",
+  "your_email": "HABIBFAISALJANDIORA@GMAIL.COM",
 
-  "live_link": "https://your-app-domain.vercel.app",
-  "video_link": "https://www.loom.com/share/your-video-id",
-  "code_or_files_link": "https://github.com/your-repo",
+  "live_link": "https://axeom-automation-habib.streamlit.app/",
+  "video_link": "https://drive.google.com/file/d/1pb8knTF46txdHbN7bqhVlgLdzp5cag-f/view?usp=drive_link",
+  "code_or_files_link": "REPLACE_WITH_GITHUB_REPO_URL",
 
   "client_count": 30,
   "clients": [
